@@ -1,0 +1,24 @@
+Summary,Precip Type,Temperature (C),Apparent Temperature (C),Humidity,Wind Speed (km/h),Wind Bearing (degrees),Visibility (km),Loud Cover,Pressure (millibars),Daily Summary
+Partly Cloudy,rain,9.472222222,7.388888889,0.89,14.1197,251,15.8263,0,1015.13,Partly cloudy throughout the day.
+Partly Cloudy,rain,9.355555556,7.227777778,0.86,14.2646,259,15.8263,0,1015.63,Partly cloudy throughout the day.
+Mostly Cloudy,rain,9.377777778,9.377777778,0.89,3.9284,204,14.9569,0,1015.94,Partly cloudy throughout the day.
+Partly Cloudy,rain,8.288888889,5.944444444,0.83,14.1036,269,15.8263,0,1016.41,Partly cloudy throughout the day.
+Overcast,fog,11.25,11.25,0.83,11.3344,152,15.8263,0,1007.01,Foggy in the evening.
+Overcast,rain,11.18333333,11.18333333,0.89,11.2056,180,9.9015,0,1006.73,Foggy in the evening.
+Overcast,rain,10.69444444,10.69444444,0.95,10.4006,161,6.6976,0,1006.59,Foggy in the evening.
+Mostly Cloudy,rain,11.11111111,11.11111111,0.93,12.0106,140,5.9731,0,1006.34,Foggy in the evening.
+Mostly Cloudy,rain,11.11111111,11.11111111,0.93,9.2092,103,10.8031,0,1006.09,Foggy in the evening.
+Foggy,rain,8.177777778,4.372222222,0.93,27.8691,19,3.2039,0,1004.89,Foggy overnight and breezy in the morning.
+Mostly Cloudy,rain,7.311111111,6.183333333,0.82,6.7459,277,14.0553,0,1007,Foggy overnight and breezy in the morning.
+Overcast,rain,7.644444444,5.038888889,0.93,14.9086,9,6.118,0,1004.3,Foggy overnight and breezy in the morning.
+Partly Cloudy,fog,17.45,17.45,0.62,7.567,24,11.2056,0,1014.78,Foggy starting overnight continuing until morning.
+Partly Cloudy,fog,15.56666667,15.56666667,0.74,0.5152,116,9.982,0,1015.04,Foggy starting overnight continuing until morning.
+Clear,fog,12.49444444,12.49444444,0.91,3.9445,197,9.982,0,1015.51,Foggy starting overnight continuing until morning.
+Clear,fog,12.24444444,12.24444444,0.89,1.5295,140,15.8263,0,1015.72,Foggy starting overnight continuing until morning.
+Clear,rain,11.41666667,11.41666667,0.92,2.9624,275,14.9569,0,1015.79,Foggy starting overnight continuing until morning.
+Clear,rain,10.55555556,10.55555556,0.95,6.0375,290,14.812,0,1015.83,Foggy in the morning.
+Clear,rain,10.46666667,10.46666667,0.93,3.0751,270,9.8049,0,1015.95,Foggy in the morning.
+Partly Cloudy,fog,23.93333333,23.93333333,0.37,4.347,178,9.982,0,1018.6,Partly cloudy until evening.
+Partly Cloudy,fog,23.91666667,23.91666667,0.32,1.1753,205,10.3523,0,1018.67,Partly cloudy until evening.
+Partly Cloudy,fog,22.82222222,22.82222222,0.44,3.1234,214,9.982,0,1018.59,Partly cloudy until evening.
+Partly Cloudy,fog,21.22777778,21.22777778,0.48,0.4025,181,9.982,0,1018.67,Partly cloudy until evening.
